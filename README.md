@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lpatrician, a Python and Rust developer new to the field.
+- 👋 Hi, I’m @lpatrician, a Python and Rust developer with experience in politics and non-profits.
 - 👀 I’m interested in machine learning, data science, and blockchain.
 - 🌱 I’m currently learning Rust and Substrate.
 - 💞️ I’m looking to collaborate on ML projects, including my own. Check out [lpatrician/better_bars](https://github.com/lpatrician/better_bars) and hit me up if you want to help out!
